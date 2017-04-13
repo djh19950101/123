@@ -1,0 +1,129 @@
+*{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+a{text-decoration: none;}
+html,body{font-size: 14px;}
+
+
+/*引用iconfont*/
+@font-face {
+  font-family: 'iconfont';  /* project id 255415 */
+  src: url('//at.alicdn.com/t/font_e8ep770jpk0dlsor.eot');
+  src: url('//at.alicdn.com/t/font_e8ep770jpk0dlsor.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_e8ep770jpk0dlsor.woff') format('woff'),
+  url('//at.alicdn.com/t/font_e8ep770jpk0dlsor.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_e8ep770jpk0dlsor.svg#iconfont') format('svg');
+}
+.iconfont{
+  font-family:"iconfont" !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+/**/
+.s_top{
+	width: 1130px;
+	margin: 0 auto;
+	height: 98px;
+	background: url(../images/mistore_logo.png) no-repeat 0 0;
+}
+.s_box{
+	width: 100%;
+	background: #14212a;
+}
+.s_content{
+	width: 1130px;
+	height: 588px;
+	margin: 0 auto;
+	background: url(../images/banner.jpg) no-repeat top center;
+	position: relative;
+}
+/*账号密码输入部分*/
+.sign{
+	width: 340px;
+	height: 484px;
+	background: white;
+	position: absolute;
+	top: 30px;right: 0;	
+	padding: 30px;
+}
+.landing{
+	height:26px;
+	text-align: center;
+	line-height: 26px;
+	padding: 20px 0;
+}
+.landing a{font-size: 24px;color: #000000;}
+.landing span{padding:0 25px;font-size: 24px;}
+.landing .tab{color: #FF6700;}
+.zh_land{
+	position: relative;
+}
+.zh_top{
+	height: 260px;
+	text-align: center;
+}
+.zh_top>input{
+	width: 336px;
+	height: 46px;
+	border: 1px solid #E8E8E8;
+	margin: 10px 0 15px;
+	text-indent: 20px;
+}
+.zh_top span{padding: 0 15px;}
+.zh_top a{color: #AAAAAA;}
+#btn{
+	text-indent: 0;
+	background-color: #FF6700;
+	font-size: 16px;
+	color: white;
+}
+.zh_bottom{
+	height: 100px;
+	text-align: center;
+	margin-top: 80px;
+}
+.s_bottom{
+	margin: 30px 0;
+	height: 80px;
+	text-align: center;
+	color: #757575;
+}
+fieldset{
+		margin: 15px 0; 
+		border:none;
+		border-top: 1px solid #DDDDDD;
+		color: #B0B0B0;
+}
+.ppx{
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	}
+.ppx a{padding: 0 10px;}
+.ppx i{font-size: 24px; color: #999999;}
+.ppx a:hover i{color: #FF6700;}
+.zh_er{
+		height: 300px;
+		width: 338px;
+		position: absolute;
+		text-align: center;
+		top: 120px;
+		display: none;
+		}
+.zh_er img{margin: 20px 0;}
+.zh_er p{line-height: 30px;}
+.zh_er a{color: #FF6700;padding: 0 8px;}
+
+.lj{
+	height: 40px;
+	line-height: 20px;
+	text-align: center;
+	}
+.lj ul li{
+	display: inline-block;
+	line-height: 40px;
+	text-align: center;
+}
+.lj li a{color: #757575; padding: 0 5px;}
+.s_bottom p a{color: #757575;}

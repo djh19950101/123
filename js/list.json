@@ -1,0 +1,188 @@
+{
+	"sjList": [
+		{
+			"name":"手机　电话卡",
+			"class":"ul2 width-3",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"笔记本　平板",
+			"class":"ul2 width-4",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"路由器　只能硬件",
+			"class":"ul2 width-4",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"移动电源　电池　插线板",
+			"class":"ul2 width-2",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"耳机　音箱",
+			"class":"ul2 width-3",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"保护套　贴膜",
+			"class":"ul2 width-1",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"材线　支架　粗存卡",
+			"class":"ul2 width-1",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"电视　盒子",
+			"class":"ul2 width-4",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"箱包　服饰",
+			"class":"ul2 width-1",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		},{
+			"name":"米兔　生活周边",
+			"class":"ul2 width-1",
+			"every":[{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"},{"url":"images/tiemo.jpg","u_name":"小米手机膜"}]
+		}
+		
+	],
+	"List_shop1":[
+	{
+		"img":"images/list1-2.jpg",
+		"name":"米兔儿童手表Q",
+		"datails":"11重安全设计，五重精准定位",
+		"prise":"299元"
+	},{
+		"img":"images/list1-3.jpg",
+		"name":"小米空气净化器2",
+		"datails":"高效除霾，10分钟换新房间空气",
+		"prise":"699元"
+	},{
+		"img":"images/list1-4.jpg",
+		"name":"小米路由器Pro",
+		"datails":"全新金属机身设计，4x4全向性天线",
+		"prise":"499元"
+	},{
+		"img":"images/list1-5.jpg",
+		"name":"小米VR眼睛",
+		"datails":"硬件级加速抗眩晕，配备9轴体感手柄",
+		"prise":"299元"
+	},{
+		"img":"images/list1-6.jpg",
+		"name":"米家小白智能摄像机",
+		"datails":"360° 全景拍摄，1080P 高清摄像",
+		"prise":"399元"
+	},{
+		"img":"images/list1-7.jpg",
+		"name":"米家扫地机器人",
+		"datails":"远程智能控制，扫得干净扫得快",
+		"prise":"1699元"
+	},{
+		"img":"images/list1-8.jpg",
+		"name":"米家骑记电助力折叠自行车",
+		"datails":"力矩传感电助力，让城市出行轻松有趣",
+		"prise":"2999元"
+	},{
+		"img":"images/list1-9.jpg",
+		"name":"小米米家电动滑板车",
+		"datails":"极简几何设计，1 分钟轻松上手",
+		"prise":"1999元"
+	}
+	],
+	"star":[
+		{
+			"url":"images/xm_1.png",
+			"title":"小米5s Plus",
+			"ms":"5.7英寸大屏双摄手机，拍照黑科技",
+			"prise":"2299元起"
+		},{
+			"url":"images/xm_2.png",
+			"title":"小米电视3s 48英寸",
+			"ms":"原装液晶屏，金属机身",
+			"prise":"2599元起"
+		},{
+			"url":"images/xm_3.png",
+			"title":"小米移动电源2",
+			"ms":"双向快充，高密度锂聚合物电芯",
+			"prise":"79元"
+		},{
+			"url":"images/xm_4.png",
+			"title":"小米手环 2",
+			"ms":"OLED 显示屏幕，升级计步算法",
+			"prise":"149元"
+		},{
+			"url":"images/xm_5.png",
+			"title":"九号平衡车",
+			"ms":"年轻人的酷玩具，骑行遥控两种玩法",
+			"prise":"1999元"
+		},{
+			"url":"images/xm_6.png",
+			"title":"米家 LED 智能台灯",
+			"ms":"无可视频闪，亮度色温无级调节",
+			"prise":"169元"
+		},{
+			"url":"images/xm_7.png",
+			"title":"米家iHealth血压计",
+			"ms":"爸妈上手就会用的智能血压计",
+			"prise":"399元"
+		},{
+			"url":"images/xm_8.png",
+			"title":"小米路由器3",
+			"ms":"更快更强，不止四天线",
+			"prise":"149元起"
+		},{
+			"url":"images/xm_9.png",
+			"title":"小米活塞耳机 清新版",
+			"ms":"铝合金音腔，第三代平衡阻尼系统",
+			"prise":"29元"
+		},{
+			"url":"images/xm_10.png",
+			"title":"小米体重秤",
+			"ms":"100克，喝杯水都可感知的精准",
+			"prise":"99元"
+		}
+	],
+	"pjList":[
+		{"tab":[
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex5.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"}
+				]
+		},
+		{"tab":[
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex9.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"}
+				]
+		},
+		{"tab":[
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex4.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"}
+				]
+		},
+		{"tab":[
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"},
+				{"url":"images/ex1.jpg","title":"青米快速充电器","prise":"9.9元","man":"1.9万人评价","class":"show","hp":"听说小米的客服妹子不错","from":"你TM想累死我啊"}
+				]
+		}
+	]
+}

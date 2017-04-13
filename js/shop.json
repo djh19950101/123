@@ -1,0 +1,58 @@
+{
+	"pro": {
+		"001": {
+			"id": "001",
+			"title": "小米衬衫",
+			"prise": "199",
+			"img": "images/sp1.jpg"
+		},
+		"002": {
+			"id": "002",
+			"title": "小米衬衫",
+			"prise": "1199",
+			"img": "images/sp5.jpg"
+		},
+		"003": {
+			"id": "003",
+			"title": "小米衬衫",
+			"prise": "199",
+			"img": "images/sp4.jpg"
+		},
+		"004": {
+			"id": "004",
+			"title": "小米衬衫",
+			"prise": "199",
+			"img": "images/sp3.jpg"
+		},
+		"005": {
+			"id": "005",
+			"title": "小米衬衫",
+			"prise": "299",
+			"img": "images/sp2.jpg"
+		},
+		"006": {
+			"id": "006",
+			"title": "小米衬衫",
+			"prise": "299",
+			"img": "images/sp6.jpg"
+		},
+		"007": {
+			"id": "007",
+			"title": "小米衬衫",
+			"prise": "299",
+			"img": "images/sp7.jpg"
+		},
+		"008": {
+			"id": "005",
+			"title": "小米衬衫",
+			"prise": "299",
+			"img": "images/sp8.jpg"
+		},
+		"009": {
+			"id": "009",
+			"title": "小米衬衫",
+			"prise": "299",
+			"img": "images/sp9.jpg"
+		}
+	}
+}
